@@ -81,8 +81,7 @@ Here’s a list of all available API endpoints for managing books.
     "author": "F. Scott Fitzgerald",
     "published_date": "1925-04-10",
     "isbn": "9780743273565",
-    "pages": 218,
-    "language": "English"
+    
   }
 ]
 ```
@@ -101,8 +100,7 @@ Here’s a list of all available API endpoints for managing books.
   "author": "F. Scott Fitzgerald",
   "published_date": "1925-04-10",
   "isbn": "9780743273565",
-  "pages": 218,
-  "language": "English"
+  
 }
 ```
 
@@ -119,8 +117,7 @@ Here’s a list of all available API endpoints for managing books.
   "author": "J.D. Salinger",
   "published_date": "1951-07-16",
   "isbn": "9780316769488",
-  "pages": 277,
-  "language": "English"
+  
 }
 ```
 
@@ -132,8 +129,7 @@ Here’s a list of all available API endpoints for managing books.
   "author": "J.D. Salinger",
   "published_date": "1951-07-16",
   "isbn": "9780316769488",
-  "pages": 277,
-  "language": "English"
+  
 }
 ```
 
@@ -158,8 +154,7 @@ Here’s a list of all available API endpoints for managing books.
   "author": "J.D. Salinger",
   "published_date": "1951-07-16",
   "isbn": "9780316769488",
-  "pages": 277,
-  "language": "English"
+   
 }
 ```
 
