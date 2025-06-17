@@ -1,4 +1,3 @@
-Here’s a sample README file for your Django project, which provides Book APIs for adding, deleting, and performing other CRUD operations. This README will explain how to set up the project, the API endpoints, and how to use them.
 
 ---
 
